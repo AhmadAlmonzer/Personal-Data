@@ -1,0 +1,10 @@
+C:\Users\lilli\source\repos\Personal Data\Personal Data\bin\Debug\Personal Data.exe.config
+C:\Users\lilli\source\repos\Personal Data\Personal Data\bin\Debug\Personal Data.exe
+C:\Users\lilli\source\repos\Personal Data\Personal Data\bin\Debug\Personal Data.pdb
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal Data.csprojAssemblyReference.cache
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal_Data.Form1.resources
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal_Data.Properties.Resources.resources
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal Data.csproj.GenerateResource.cache
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal Data.csproj.CoreCompileInputs.cache
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal Data.exe
+C:\Users\lilli\source\repos\Personal Data\Personal Data\obj\Debug\Personal Data.pdb
